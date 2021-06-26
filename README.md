@@ -9,3 +9,4 @@ password, private keys, and other secrets. These should not be part of version c
 5) override files as they are usually used to override resources locally and so are not checked in
 6) Include override files you do wish to add to version control using negated pattern
 7) Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
+new line
